@@ -1,4 +1,4 @@
-# go-kafka-io
+# go-kafka-demo
 
 ## Why?
 
